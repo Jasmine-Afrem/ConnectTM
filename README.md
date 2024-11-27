@@ -1,6 +1,6 @@
 # 🌍 ConnecTM - Smart City Issue Tracker 🌍
 
-**ConnecTM** is a Smart City solution developed for the **Unihack Hackathon** in the **Smart City** track. This app allows citizens to report issues in their city, such as broken benches, fallen trees, potholes, and more, by pinpointing them on an interactive map. With the ability to categorize and flag these issues, **ConnecTM** aims to improve urban living by helping city authorities stay informed and take action quickly.
+**ConnecTM** is a Smart City solution developed for the **ITFest Hackathon** in the **Smart City** track. This app allows citizens to report issues in their city, such as broken benches, fallen trees, potholes, and more, by pinpointing them on an interactive map. With the ability to categorize and flag these issues, **ConnecTM** aims to improve urban living by helping city authorities stay informed and take action quickly.
 
 Built using **JavaScript**, this app features an easy-to-use interface where users can submit issues, while providing an **Admin Page** for city officials to manage and assign tasks for fixing the reported issues.
 
