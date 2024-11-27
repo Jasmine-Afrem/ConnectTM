@@ -47,7 +47,7 @@ To run this project locally:
 
 ## 📝 Project Overview
 
-ConnecTM was developed as part of the Unihack Hackathon for the Smart City track to address common urban problems by enabling residents to report issues directly. The app leverages JavaScript for dynamic functionality and a map integration for users to accurately report locations of issues. The Admin Dashboard helps authorities efficiently manage tasks and track the status of issues that need fixing.
+ConnecTM was developed as part of the ITFest Hackathon for the Smart City track to address common urban problems by enabling residents to report issues directly. The app leverages JavaScript for dynamic functionality and a map integration for users to accurately report locations of issues. The Admin Dashboard helps authorities efficiently manage tasks and track the status of issues that need fixing.
 
 The app is user-friendly, responsive, and aims to improve the quality of life in cities by encouraging communication between citizens and the local authorities.
 
